@@ -6,7 +6,7 @@
 <body>
 
 <?php
-  
+  /*ALFONSO:<<<< Muy bien resuelto ... */
    #Raquel Alcázar
 
     $alumnos=array("Juan"=>21, "Ana"=>20, "Marta"=>23, "Adrian"=>23, "Manuel"=>22);
