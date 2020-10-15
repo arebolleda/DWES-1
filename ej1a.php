@@ -6,7 +6,7 @@
 <body>
 
 <?php
-  
+  /*ALFONSO:<<<< Muy bien resuelto ... */
    #Raquel Alcázar
 
     echo "<table border=1>";
