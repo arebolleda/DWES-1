@@ -6,7 +6,7 @@
 <body>
 
 <?php
-  
+  /*ALFONSO:<<<< Muy bien resuelto ... */
    #Raquel Alcázar
 
     $modulos1=array("Bases Datos", "Entornos Desarrollo", "Programacion");
