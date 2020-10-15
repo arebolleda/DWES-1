@@ -16,6 +16,7 @@
     #Primera forma
 
     echo "Primera forma: </br> </br>";
+   /*ALFONSO:<<<<Bien resuelto, pero forma más simple: definir un array $modulounion y completando con bucles foreach que recorran los array $modulox*/
 
     $cont=count($modulos1);
     $contAux=0;
@@ -48,7 +49,7 @@
     $modulos3=array("Desarrollo Web ES", "Desarrollo Web EC", "Despliegue", "Desarrollo Interfaces", "Ingles");
 
     #Segunda forma
-
+/*ALFONSO:<<<< Muy bien resuelto ... */
     $modulos=array_merge($modulos1, $modulos2, $modulos3);
 
     for($i=0; $i<count($modulos); $i++){
@@ -61,7 +62,7 @@
     #Tercera forma
 
     echo "Tercera forma: </br> </br>";
-
+/*ALFONSO:<<<< Muy bien resuelto ... */
     while(count($modulos2)>0){
         array_push($modulos1,array_shift($modulos2));
         array_pop($modulos2);
