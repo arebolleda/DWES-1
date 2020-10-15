@@ -8,7 +8,7 @@
 <?php
   
    #Raquel Alcázar
-
+   /*ALFONSO:<<<< Muy bien resuelto, vas generando e insertando números en el array correspondiente para finalmente calcular las medias... */
     echo "<table border=1>";
     echo "<tr>";
         echo "<th> Indice </th>";
