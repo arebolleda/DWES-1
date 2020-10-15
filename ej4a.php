@@ -6,7 +6,7 @@
 <body>
 
 <?php
-  
+  /*ALFONSO:<<<< Muy bien resuelto, buen uso funciones arrays ... */
    #Raquel Alcázar
 
     echo "<table border=1>";
